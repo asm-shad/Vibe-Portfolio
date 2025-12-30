@@ -68,7 +68,7 @@ const About: FC = () => {
               <div className="absolute inset-0 border-2 border-gray-200 dark:border-neutral-700 rounded-lg transform -translate-x-4 -translate-y-4 z-0"></div>
               <div className="relative z-10 w-full h-full bg-gray-50 dark:bg-neutral-800 rounded-lg overflow-hidden">
                 <img 
-                  src="/src/assets/AboutMe.jpg" 
+                  src="/AboutMe.jpg" 
                   alt="Evren Shah - About Me" 
                   className="w-full h-full object-cover"
                 />

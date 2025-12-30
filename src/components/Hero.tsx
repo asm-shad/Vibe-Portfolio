@@ -338,7 +338,7 @@ const Hero: React.FC = () => {
                 transition={{ duration: 0.2 }}
               >
                 <img 
-                  src="/src/assets/Banner.jpeg" 
+                  src="/Banner.jpeg" 
                   alt="ASM Shad - Full Stack Developer" 
                   className="w-full h-full object-cover"
                 />
