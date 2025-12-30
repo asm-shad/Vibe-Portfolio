@@ -1,4 +1,4 @@
-# Evren Shah - Frontend Developer Portfolio
+# ASM Shad - Full Stack Developer Portfolio
 
 A complete, pixel-perfect React portfolio with modern animations and comprehensive sections, built with React 19+ and the latest tech stack.
 
