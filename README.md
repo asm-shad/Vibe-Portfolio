@@ -104,7 +104,7 @@ card-dark: "#1e293b"         // Dark theme cards
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd evren-shah-portfolio
+cd asm-shad-portfolio
 ```
 
 2. **Install dependencies**
